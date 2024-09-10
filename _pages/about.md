@@ -15,4 +15,4 @@ During my undergraduate studies, I interned as an Investment Assistant at China 
 
 I am fluent in four languages: Mandarin (native), English (fluent, IELTS 6.5), French (basic, CEFR B1), and German (basic). I also obtained the Association of Chartered Certified Accountants (ACCA) certificate in my freshman year.
 
-My hobbies include scuba diving (Open Water Diver and Free Diver Level 2), skiing (member of the Tsinghua Ski Team), surfing, and horseback riding. However, I have injured my back recently, so I temporarily cannot engage in these activities😂. 
+My hobbies include scuba diving (Open Water Diver and Free Diver Level 2), skiing (member of the Tsinghua Ski Team), surfing, and skydiving. However, I have injured my back recently, so I temporarily cannot engage in these activities😂. 
