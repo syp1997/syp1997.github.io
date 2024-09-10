@@ -7,10 +7,10 @@ redirect_from:
   - /about.html
 ---
 
-I'm a third year undergraduate student from [School of EECS](https://eecs.pku.edu.cn/), [Peking University](https://www.pku.edu.cn/). My research interest includes computer vision, computer graphics, machine learning, and computational photography.
+I'm a fouth year undergraduate student from [[ESCP Business School](https://eecs.pku.edu.cn/](https://escp.eu/)). My professional interests include finance, accounting, and investment. I spent a happy year at Tsinghua University during my freshman year and have recently come to Peking University’s Guanghua School of Management for a semester exchange in my final year of undergraduate studies. I am currently seeking a long-term job in Beijing. If you are interested, please do not hesitate to contact me at: buaa_syp@163.com.
 
-I am very fortunate to be advised by [Prof. XXX](https://www.XXX.com/) of XXX Lab from [School of Computer Science](https://cs.pku.edu.cn/), Peking University. I was advised by [Prof. XX](https://XXX.pku.edu.cn/) from [School of Computer Science](https://cs.pku.edu.cn/), Peking University.
+During my undergraduate studies, I interned as an Investment Assistant at China Aerospace Hi-Tech Investment Company, and also worked as an investment intern at TAL Education Group and Shinefore Venture Capital, advised by Sophie Ling Teng.
 
-You can find my CV here: [XX's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
+I am fluent in four languages: Mandarin (native), English (fluent, IELTS 6.5), French (basic, CEFR B1), and German (basic). I also obtained the Association of Chartered Certified Accountants (ACCA) certificate in my freshman year.
 
-[Email](mailto:XX@stu.pku.edu.cn) / [Github](https://github.com/QiuDi233) / [Wechat](../images/wechat.jpg) / [CSDN](https://blog.csdn.net/qd1813100174?spm=1000.2115.3001.5343)
+My hobbies include scuba diving (Open Water Diver and Free Diver Level 2), skiing (member of the Tsinghua Ski Team), surfing, and horseback riding. However, I have injured my back recently, so I temporarily cannot engage in these activities😂. 
